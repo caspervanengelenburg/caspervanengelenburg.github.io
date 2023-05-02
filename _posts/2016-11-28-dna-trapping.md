@@ -1,5 +1,5 @@
 ---
-title:  "[Accepted paper] Mechanical Trapping of DNA in a Double-Nanopore System, ACS Publications"
+title:  "Accepted paper // Mechanical Trapping of DNA in a Double-Nanopore System, ACS Publications"
 layout: post
 author: Casper van Engelenburg
 ---
