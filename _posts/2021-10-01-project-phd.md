@@ -4,6 +4,7 @@ layout: post
 categories: project
 ---
 
+
 ![faculty-floorplan-rgb](https://user-images.githubusercontent.com/40263235/184533542-c6649023-b40e-4759-97d6-57ee27baebb3.png)
 
 In October 2021, I joined the _[AiDAPT lab](https://www.tudelft.nl/ai/aidapt)_ as a **PhD candidate** at the faculty of _Architecture and the Built-Environment_! 
