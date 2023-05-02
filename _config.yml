@@ -24,8 +24,8 @@ twitter_username: patdryburgh
 github_username:  patdryburgh
 
 ## for running it locally
-theme: hitchens-theme
-ignore_theme_config: true
+#theme: hitchens-theme
+#ignore_theme_config: true
 
 # Build settings
 markdown: kramdown
