@@ -1,7 +1,7 @@
 ---
-title:  "[Expo] BK Exhibition: DATA DATA DATA"
+title:  "[#expo] BK Exhibition: DATA DATA DATA"
 layout: post
-categories: expo
+categories: remaining
 ---
 
 ![image](https://user-images.githubusercontent.com/40263235/184528706-13625593-c064-4130-9584-9c9ae5a12b3b.png)

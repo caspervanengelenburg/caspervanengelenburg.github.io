@@ -1,7 +1,7 @@
 ---
-title:  "[Workshop] Learning a machine to automatically furnish a room @Berlin Arts"
+title:  "[#workshop] Learning A Machine To Automatically Furnish A Room @Berlin Arts"
 layout: post
-categories: workshop
+categories: remaining
 ---
 
 The [Design Modelling Symposium 2022](https://design-modelling-symposium.de/), "Towards Radical Regeneration", was held at the University of Arts in Berlin and consisted of two consecutive parts: in the weekend it hosted several workshops, while throughout the weekdays there was a conference. We only attended one of the workshops - spanning the whole weekend. 

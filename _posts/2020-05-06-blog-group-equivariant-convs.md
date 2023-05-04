@@ -1,7 +1,7 @@
 ---
-title:  "[Blog] Group-Equivariant Convolutional Networks, Medium"
+title:  "[#blog] Group-Equivariant Convolutional Networks, Medium"
 layout: post
-categories:
+categories: blog
 ---
 
 ![Impl_P4toP4](https://user-images.githubusercontent.com/40263235/184490008-37b10be7-6e65-400b-9c6c-595bd19855bd.png)

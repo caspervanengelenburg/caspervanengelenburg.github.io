@@ -1,7 +1,7 @@
 ---
-title:  "[Project] PhD @AiDAPT: Computer Vision and Architectural Design"
+title:  "[#phd] Doctoral Research @AiDAPT: Computer Vision and Architectural Design"
 layout: post
-categories: project
+categories: remaining
 ---
 
 

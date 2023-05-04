@@ -1,5 +1,5 @@
 ---
-title:  "[MSc. thesis] Potential Enrichments in Malaria Diagnostics: Hyperspectral Imaging and Group-Equivariant Neural Networks"
+title:  "[#msc-thesis] Potential Enrichments in Malaria Diagnostics: Hyperspectral Imaging and Group-Equivariant Neural Networks"
 layout: post
 categories: thesis
 ---
